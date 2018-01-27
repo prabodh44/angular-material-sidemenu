@@ -1,4 +1,13 @@
 # Angular Material Sidemenu
+## Changes
+
+Added functionality to display images to collapasble menu
+Made changes in the files
+- made changes in the file
+- angular-material-sidemenu.js
+- angular-material-sidemenu.css
+- main.scss
+- template.js (template of mdSideMenuContent)
 
 ## Introduction
 
